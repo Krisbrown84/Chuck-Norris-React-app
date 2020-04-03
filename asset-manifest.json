@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Chuck-Norris-React-app/static/css/main.f5eb9b75.chunk.css",
+    "main.js": "/Chuck-Norris-React-app/static/js/main.73160f13.chunk.js",
+    "main.js.map": "/Chuck-Norris-React-app/static/js/main.73160f13.chunk.js.map",
+    "runtime-main.js": "/Chuck-Norris-React-app/static/js/runtime-main.7511f28f.js",
+    "runtime-main.js.map": "/Chuck-Norris-React-app/static/js/runtime-main.7511f28f.js.map",
+    "static/js/2.2e73d799.chunk.js": "/Chuck-Norris-React-app/static/js/2.2e73d799.chunk.js",
+    "static/js/2.2e73d799.chunk.js.map": "/Chuck-Norris-React-app/static/js/2.2e73d799.chunk.js.map",
+    "index.html": "/Chuck-Norris-React-app/index.html",
+    "precache-manifest.1dd418248c27d631a996371c887bed53.js": "/Chuck-Norris-React-app/precache-manifest.1dd418248c27d631a996371c887bed53.js",
+    "service-worker.js": "/Chuck-Norris-React-app/service-worker.js",
+    "static/css/main.f5eb9b75.chunk.css.map": "/Chuck-Norris-React-app/static/css/main.f5eb9b75.chunk.css.map",
+    "static/js/2.2e73d799.chunk.js.LICENSE.txt": "/Chuck-Norris-React-app/static/js/2.2e73d799.chunk.js.LICENSE.txt",
+    "static/media/Chuck-norris.jpg": "/Chuck-Norris-React-app/static/media/Chuck-norris.173d39ce.jpg",
+    "static/media/App.css": "/Chuck-Norris-React-app/static/media/chuck-norris.98b26e87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7511f28f.js",
+    "static/js/2.2e73d799.chunk.js",
+    "static/css/main.f5eb9b75.chunk.css",
+    "static/js/main.73160f13.chunk.js"
+  ]
+}
